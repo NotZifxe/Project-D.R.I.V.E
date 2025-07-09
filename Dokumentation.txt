@@ -1,3 +1,3 @@
-Trackmania erworben und heruntengeladen
+Trackmania erworben und heruntergeladen
 Installed OpenPlanet, Python 3.8.4, ViGEmBus
 Virtual Enviroment erstellt 
