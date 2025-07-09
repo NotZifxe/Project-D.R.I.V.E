@@ -1,0 +1,4 @@
+Bought Trackmania
+Downloaded Trackmania
+Installed OpenPlanet, Python 3.8.4, ViGEmBus
+Virtual Enviroment erstellt 
