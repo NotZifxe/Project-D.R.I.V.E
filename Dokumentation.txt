@@ -1,3 +1,15 @@
 Trackmania erworben und heruntergeladen
 Installed OpenPlanet, Python 3.8.4, ViGEmBus
 Virtual Enviroment erstellt 
+
+Teststrecke heruntergeladen
+Vortrainierten Algorhymus getestet
+Bugfixing
+Eigenen Algorithmus angefangen zu trainieren auf der Heruntergeladenen Teststrecke (LiDAR)
+- 3 Tage
+Abgebrochen aufgrund von fehlendem Fortschritt
+
+Angefangen die Dokumentation zu lesen
+Eigene Teststrecke gebaut
+Training angefangen
+
