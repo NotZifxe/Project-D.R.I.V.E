@@ -13,3 +13,7 @@ Angefangen die Dokumentation zu lesen
 Eigene Teststrecke gebaut
 Training angefangen
 
+- 07.09.2025
+* Neue Teststrecke gebaut
+* Statt LiDAR, img training
+* Neuen approach mit tminterface überlegt 
