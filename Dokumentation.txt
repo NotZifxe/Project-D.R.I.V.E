@@ -17,3 +17,8 @@ Training angefangen
 * Neue Teststrecke gebaut
 * Statt LiDAR, img training
 * Neuen approach mit tminterface überlegt 
+
+-11.09.2025
+*https://youtu.be/Tnu4O_xEmVk?si=hEWC0PNgpqWwxce7 
+*https://youtu.be/ks4MPfMq8aQ?si=BcnpGMYKyZT4QaFN
+angeschaut
