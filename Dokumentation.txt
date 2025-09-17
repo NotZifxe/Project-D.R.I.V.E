@@ -18,7 +18,15 @@ Training angefangen
 * Statt LiDAR, img training
 * Neuen approach mit tminterface überlegt 
 
--11.09.2025
+- 11.09.2025
 *https://youtu.be/Tnu4O_xEmVk?si=hEWC0PNgpqWwxce7 
 *https://youtu.be/ks4MPfMq8aQ?si=BcnpGMYKyZT4QaFN
 angeschaut
+
+- 14.09.2025
+* TMForever Heruntergeladen
+* TMForever mit TAS installiert
+* Weg gesucht TMForever mit TMRL zu verwenden
+
+- 17.09.2025
+* approach mit LiDAR & Track progress wieder in TM2020
