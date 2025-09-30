@@ -30,3 +30,12 @@ angeschaut
 
 - 17.09.2025
 * approach mit LiDAR & Track progress wieder in TM2020
+
+- 20.09.2025
+* Speicherplatz ist aus
+
+- 28.09.2025
+* SSD bestellt
+
+-30.09.2025
+* SSD eingebaut, formatiert & geklont
