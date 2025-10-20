@@ -37,5 +37,13 @@ angeschaut
 - 28.09.2025
 * SSD bestellt
 
--30.09.2025
+- 30.09.2025
 * SSD eingebaut, formatiert & geklont
+
+- 20.09.2025
+* Twitchstream eingerichtet
+* WandB eingerichtet
+* Rewards überarbeitet
+* Training erneut angefangen
+* Replays Aktiviert
+* Ersten Replay gerendert
