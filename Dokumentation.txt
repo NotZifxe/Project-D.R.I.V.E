@@ -47,3 +47,12 @@ angeschaut
 * Training erneut angefangen
 * Replays Aktiviert
 * Ersten Replay gerendert
+
+- 26.10.2025
+* https://www.maturitaetsarbeiten.ch/cms/images/2025_ma/Ku%CC%88mmerle%20Jan/Kantonsschule%20Zimmerberg_Ku%CC%88mmerle%20Jan_Ko%CC%88nnen%20Computer%20CAPTCHAs%20lo%CC%88sen.pdf
+* https://www.maturitaetsarbeiten.ch/cms/images/2025_ma/Muzzarelli%20Diego/Kantonsschule%20Uster_Diego%20Muzzarelli_Vorhersage%20der%20Ozonkonzentration%20mithilfe%20von%20neuronalen%20Netzen.pdf
+* Reinforcement Learning: An Introduction (second edtion) - by Andrew Barto & Richard Sutton besorgt
+* Wichtigsten Konzepte des RL erfasst
+* Dokument erstellt für die Schriftliche Arbeit & grobes Inhaltsverzeichnis erstellt
+* Ersten teil des Hauptteil angefangen
+* 
