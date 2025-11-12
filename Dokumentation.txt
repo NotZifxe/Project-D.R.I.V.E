@@ -19,8 +19,8 @@ Training angefangen
 * Neuen approach mit tminterface überlegt 
 
 - 11.09.2025
-*https://youtu.be/Tnu4O_xEmVk?si=hEWC0PNgpqWwxce7 
-*https://youtu.be/ks4MPfMq8aQ?si=BcnpGMYKyZT4QaFN
+* https://youtu.be/Tnu4O_xEmVk?si=hEWC0PNgpqWwxce7 
+* https://youtu.be/ks4MPfMq8aQ?si=BcnpGMYKyZT4QaFN
 angeschaut
 
 - 14.09.2025
@@ -48,11 +48,58 @@ angeschaut
 * Replays Aktiviert
 * Ersten Replay gerendert
 
+- 21.10.2025
+* Dokument erstellt für die Schriftliche Arbeit #Korrektur durch Dokumentverlauft auf Word
+
+- 25.10.2025
+* Titel engültig festgelegt
+
 - 26.10.2025
 * https://www.maturitaetsarbeiten.ch/cms/images/2025_ma/Ku%CC%88mmerle%20Jan/Kantonsschule%20Zimmerberg_Ku%CC%88mmerle%20Jan_Ko%CC%88nnen%20Computer%20CAPTCHAs%20lo%CC%88sen.pdf
 * https://www.maturitaetsarbeiten.ch/cms/images/2025_ma/Muzzarelli%20Diego/Kantonsschule%20Uster_Diego%20Muzzarelli_Vorhersage%20der%20Ozonkonzentration%20mithilfe%20von%20neuronalen%20Netzen.pdf
 * Reinforcement Learning: An Introduction (second edtion) - by Andrew Barto & Richard Sutton besorgt
-* Wichtigsten Konzepte des RL erfasst
-* Dokument erstellt für die Schriftliche Arbeit & grobes Inhaltsverzeichnis erstellt
-* Ersten teil des Hauptteil angefangen
-* 
+* grobes Inhaltsverzeichnis erstellt 
+* Vorwort Viertel Seite
+
+
+- 27.10.2025
+* https://youtu.be/x83WmvbRa2I?si=FLYv10o_VS_fN9ih
+* https://youtu.be/NFo9v_yKQXA?si=krJ826qbTHrNZcJZ
+* Kapitel 2.1 Angefangen 
+
+- 28.10.2025
+* Wegleitung nochmals genauer durchgelesen
+* https://youtu.be/bpUszPiWM7o?si=wFt7sqNRLDxRoQeu
+* Bis Kapitel 2.2.2 
+
+- 29.10.2025
+* Fragen für Gespräch am Montag notiert
+
+- 30.10.2025
+* Formatierung & Darstellung nochmals überarbeitet vor abgabe des ersten Teilkapitels
+
+- 31.10.2025
+* Vorwort ausgeschnitten & Teilkapitel abgeschickt
+
+- 02.11.2025
+* Kapitel 2.3.2 Begonnen
+* https://youtu.be/_j6pvGEchWU?si=ynxszrPV_D77MYCG
+* https://youtu.be/JgvyzIkgxF0?si=E-UUGH8v9ADTFta2
+
+- 03.11.2025
+* Inhaltsverzeichnis weiter augearbeitet
+
+- 06.11.2025
+* Kapitel 2.3.5 Angefangen
+* https://youtu.be/9JZID-h6ZJ0?si=3PHZCciIDLABMwG_
+
+- 09.11.2025
+* https://youtu.be/Dov68JsIC4g?si=i10e71fQcJpEZctX
+
+- 10.11.2025
+* Kapitel 2.4 gestartet
+* https://youtu.be/AJiG3ykOxmY?si=BsHYMru-ftv9TgV1
+
+- 12.11.2025
+* Kapitel 2.4.2 überarbeitet
+
