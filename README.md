@@ -16,4 +16,4 @@ Dieses Projekt basiert auf [TMRL (TrackMania Reinforcement Learning)](https://gi
 ## Repository-Struktur
 
 - **Konfigurationen:** Config-Dateien befinden sich in 
-- **Trainierte Modelle:** Vortrainierte Agenten verfügbar in 
+- **Trainierte Modelle:** Vortrainierte Agenten verfügbar unter https://eduzh-my.sharepoint.com/:f:/g/personal/zifum_wen_stud_edu_zh_ch/EviN19TlHOdIq8M32Ga75l4Br8hxZs1PbWT8RvTwBe0f1w?e=5FoyNc 
