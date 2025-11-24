@@ -10,8 +10,8 @@ Dieses Repository enthält die Implementierung und Konfigurationen meiner Matura
 
 Dieses Projekt basiert auf [TMRL (TrackMania Reinforcement Learning)](https://github.com/trackmania-rl/tmrl) mit geringfügigen Anpassungen:
 
-- **Änderung 1:** 
-- **Änderung 2:** 
+- **Änderung 1:** tmrl/custom/tm/utils/control_gamepad.py Zeile 11 & 15
+- **Änderung 2:** tmrl/__main__.py Zeile 37
 
 ## Repository-Struktur
 
