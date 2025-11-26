@@ -1,17 +1,17 @@
 ## RL in Trackmania - Maturaarbeit
 
-Soft Actor-Critic (SAC) Agent, trainiert für autonomes Fahren in TrackMania 2020 mithilfe des TMRL-Frameworks.
+Soft Actor-Critic (SAC) Agent, trainiert für autonomes Fahren in Trackmania 2020 mithilfe des TMRL-Frameworks.
 
 ## Über dieses Projekt
 
-Dieses Repository enthält die Implementierung und Konfigurationen meiner Maturaarbeit über Deep Reinforcement Learning in TrackMania. Das Projekt trainiert einen autonomen Agenten mit SAC basierend auf LIDAR-Beobachtungen & Streckenfortschritt.
+Dieses Repository enthält die Implementierung und Konfigurationen meiner Maturaarbeit über Deep Reinforcement Learning in TrackMania ("Einen Agenten mithilfe von Reinforcement Learning in Trackmania trainieren"). Das Projekt trainiert einen autonomen Agenten mit SAC basierend auf LiDAR-Beobachtungen & Streckenfortschritt.
 
 ## Basierend auf TMRL
 
 Dieses Projekt basiert auf [TMRL (TrackMania Reinforcement Learning)](https://github.com/trackmania-rl/tmrl) mit minimalen Anpassungen:
 
-- **Änderung 1:** tmrl/custom/tm/utils/control_gamepad.py Zeile 11 & 15
-- **Änderung 2:** tmrl/__main__.py Zeile 37
+- **Modifikation 1:** tmrl/custom/tm/utils/control_gamepad.py Zeile 11 & 15
+- **Modifikation 2:** tmrl/__main__.py Zeile 37
 
 ## Repository-Struktur
 
